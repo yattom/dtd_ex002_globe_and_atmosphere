@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Pipenv (ex002_globe_and_atmosphere)" />
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="Pipenv (ex002_globe_and_atmosphere)" project-jdk-type="Python SDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
